@@ -7,6 +7,14 @@ Nunn, Ceri; Pike, William T.; Standley, Ian M.; Calcutt, Simon B.; Kedar, Sharon
 
 This Electronic Supplement contains python notebooks to reproduce the figures in this paper, including the parameters and equations used to produce the figures in the paper. It also contains example signals and noise from the Moon and Mars, and other background information. 
 
+**** Note, if you have trouble browsing the Jupyter notebooks, use the free site nbviewer, and copy and paste the url of the 
+notebook into a browser: 
+https://nbviewer.jupyter.org/github/cerinunn/apollo-shoulders/blob/master/plot_seismometer_noise.ipynb
+https://nbviewer.jupyter.org/github/cerinunn/apollo-shoulders/blob/master/make_and_check_catalogs.ipynb	
+https://nbviewer.jupyter.org/github/cerinunn/apollo-shoulders/blob/master/plot_histograms.ipynb
+https://nbviewer.jupyter.org/github/cerinunn/apollo-shoulders/blob/master/make_tmp_catalogs.ipynb
+*****
+
 -apollo-shoulders: 
 
   -plot_seismometer_noise.ipynb
