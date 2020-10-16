@@ -1,0 +1,1708 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:ns0="http://some-page.de/xmlns/1.0" xmlns:ns1="http://some-page.de/xmlns/0.1">
+  <eventParameters publicID="smi:local/b73ea095-61ef-4875-89a9-b5c839170286">
+    <event publicID="smi:nakamura81/event/05506">
+      <type>crash</type>
+      <description>
+        <text>LM impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05506">
+        <text>17 LM IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05506">
+        <time>
+          <value>1972-12-15T06:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05506">
+        <genericAmplitude>
+          <value>5.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05506</pickID>
+      </amplitude>
+      <ns1:moon_event_type>LM impact</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05510">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05510">
+        <text>bulow_moonquake: A44</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05510">
+        <time>
+          <value>1972-12-15T15:59:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A44</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05510">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05510</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05521">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05521">
+        <text>bulow_moonquake: A6</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05521">
+        <time>
+          <value>1972-12-16T21:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A6</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05521">
+        <genericAmplitude>
+          <value>1.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05521</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05524">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05524">
+        <time>
+          <value>1972-12-17T00:41:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05524">
+        <genericAmplitude>
+          <value>2.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05524</pickID>
+      </amplitude>
+      <ns1:moon_event_type>meteoroid</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05528">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05528">
+        <time>
+          <value>1972-12-17T05:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05528">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05528</pickID>
+      </amplitude>
+      <ns1:moon_event_type>meteoroid</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05529">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05529">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05529">
+        <text>bulow_moonquake: A40</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05529">
+        <time>
+          <value>1972-12-17T05:35:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A40</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A40</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05529">
+        <genericAmplitude>
+          <value>1.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05529</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05531">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05531">
+        <text>bulow_moonquake: A212</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05531">
+        <time>
+          <value>1972-12-17T08:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A212</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05531">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05531</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05533">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05533">
+        <time>
+          <value>1972-12-17T11:54:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05533">
+        <genericAmplitude>
+          <value>0.9</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05533</pickID>
+      </amplitude>
+      <ns1:moon_event_type>unclassified</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05534">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05534">
+        <time>
+          <value>1972-12-17T13:06:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05534">
+        <genericAmplitude>
+          <value>0.9</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05534</pickID>
+      </amplitude>
+      <ns1:moon_event_type>unclassified</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05535">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05535">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05535">
+        <text>bulow_moonquake: A41</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05535">
+        <time>
+          <value>1972-12-17T16:24:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A41</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A41</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05535">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05535</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05536">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05536">
+        <text>bulow_moonquake: A38</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05536">
+        <time>
+          <value>1972-12-17T19:36:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A38</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05536">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05536</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05537">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05537">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05537">
+        <text>bulow_moonquake: A42</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05537">
+        <time>
+          <value>1972-12-18T00:23:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A42</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A42</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05537">
+        <genericAmplitude>
+          <value>2.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05537</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05538">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05538">
+        <text>bulow_moonquake: A236</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05538">
+        <time>
+          <value>1972-12-18T10:38:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A236</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05538">
+        <genericAmplitude>
+          <value>1.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05538</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05541">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05541">
+        <text>GOOD S @12,14,15</text>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05541">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05541">
+        <text>bulow_moonquake: A15</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05541">
+        <time>
+          <value>1972-12-19T21:49:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A15</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A15</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05541">
+        <genericAmplitude>
+          <value>1.7</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05541</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05544">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05544">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05544">
+        <text>bulow_moonquake: A20</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05544">
+        <time>
+          <value>1972-12-20T20:23:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A20</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A20</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05544">
+        <genericAmplitude>
+          <value>1.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05544</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05546">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05546">
+        <text>bulow_moonquake: A210</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05546">
+        <time>
+          <value>1972-12-21T00:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A210</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05546">
+        <genericAmplitude>
+          <value>1.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05546</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05555">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05555">
+        <text>P&amp;S @14</text>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05555">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05555">
+        <text>bulow_moonquake: A30</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05555">
+        <time>
+          <value>1972-12-21T16:30:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A30</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A30</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05555">
+        <genericAmplitude>
+          <value>2.9</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05555</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05559">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05559">
+        <text>bulow_moonquake: A5</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05559">
+        <time>
+          <value>1972-12-22T02:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A5</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05559">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05559</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05560">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05560">
+        <text>bulow_moonquake: A1</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05560">
+        <time>
+          <value>1972-12-22T04:50:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A1</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05560">
+        <genericAmplitude>
+          <value>1.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05560</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05561">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05561">
+        <text>bulow_moonquake: A201</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05561">
+        <time>
+          <value>1972-12-22T07:25:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A201</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05561">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05561</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05562">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05562">
+        <time>
+          <value>1972-12-22T14:14:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05562">
+        <genericAmplitude>
+          <value>1.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05562</pickID>
+      </amplitude>
+      <ns1:moon_event_type>meteoroid</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05565">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05565">
+        <text>bulow_moonquake: A2</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05565">
+        <time>
+          <value>1972-12-23T03:57:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A2</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05565">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05565</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05566">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05566">
+        <text>INVERTED</text>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05566">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05566">
+        <text>bulow_moonquake: A34</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05566">
+        <time>
+          <value>1972-12-23T10:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A34</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A01</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05566">
+        <genericAmplitude>
+          <value>1.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05566</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05568">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05568">
+        <text>bulow_moonquake: A2</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05568">
+        <time>
+          <value>1972-12-24T05:00:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A2</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05568">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05568</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05569">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05569">
+        <text>bulow_moonquake: A1</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05569">
+        <time>
+          <value>1972-12-24T06:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A1</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05569">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05569</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05570">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05570">
+        <text>bulow_moonquake: A9</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05570">
+        <time>
+          <value>1972-12-24T10:39:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A9</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05570">
+        <genericAmplitude>
+          <value>1.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05570</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05574">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05574">
+        <text>bulow_moonquake: A229</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05574">
+        <time>
+          <value>1972-12-25T13:17:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A229</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05574">
+        <genericAmplitude>
+          <value>1.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05574</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05608">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05608">
+        <text>bulow_moonquake: A56</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05608">
+        <time>
+          <value>1972-12-31T15:08:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A56</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05608">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05608</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05610">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05610">
+        <text>bulow_moonquake: A28</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05610">
+        <time>
+          <value>1972-12-31T16:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A28</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05610">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05610</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05617">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05617">
+        <text>bulow_moonquake: A57</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05617">
+        <time>
+          <value>1973-01-01T06:35:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A57</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05617">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05617</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05619">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05619">
+        <text>15A ESTIMATED</text>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05619">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05619">
+        <text>bulow_moonquake: A17</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05619">
+        <time>
+          <value>1973-01-01T11:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A17</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A17</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05619">
+        <genericAmplitude>
+          <value>1.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05619</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05621">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05621">
+        <text>bulow_moonquake: A18</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05621">
+        <time>
+          <value>1973-01-01T16:55:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A18</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05621">
+        <genericAmplitude>
+          <value>0.9</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05621</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05623">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05623">
+        <text>bulow_moonquake: A53</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05623">
+        <time>
+          <value>1973-01-01T20:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A53</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05623">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05623</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05624">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05624">
+        <text>bulow_moonquake: A3</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05624">
+        <time>
+          <value>1973-01-01T22:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A3</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05624">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05624</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05633">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05633">
+        <text>bulow_moonquake: A49</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05633">
+        <time>
+          <value>1973-01-02T16:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A49</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05633">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05633</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05634">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05634">
+        <text>bulow_moonquake: A43</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05634">
+        <time>
+          <value>1973-01-02T17:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A43</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05634">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05634</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05639">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05639">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05639">
+        <text>bulow_moonquake: A33</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05639">
+        <time>
+          <value>1973-01-03T02:44:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A33</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A33</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05639">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05639</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05641">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05641">
+        <text>bulow_moonquake: A8</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05641">
+        <time>
+          <value>1973-01-03T10:38:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A8</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05641">
+        <genericAmplitude>
+          <value>0.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05641</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05643">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05643">
+        <text>bulow_moonquake: A104</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05643">
+        <time>
+          <value>1973-01-03T15:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A104</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05643">
+        <genericAmplitude>
+          <value>0.7</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05643</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05644">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05644">
+        <text>bulow_moonquake: A100</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05644">
+        <time>
+          <value>1973-01-03T16:47:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A100</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05644">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05644</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05648">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05648">
+        <time>
+          <value>1973-01-03T23:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05648">
+        <genericAmplitude>
+          <value>0.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05648</pickID>
+      </amplitude>
+      <ns1:moon_event_type>meteoroid</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05653">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05653">
+        <text>bulow_moonquake: A445</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05653">
+        <time>
+          <value>1973-01-04T06:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A445</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05653">
+        <genericAmplitude>
+          <value>0.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05653</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05654">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05654">
+        <time>
+          <value>1973-01-04T07:25:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05654">
+        <genericAmplitude>
+          <value>0.7</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05654</pickID>
+      </amplitude>
+      <ns1:moon_event_type>unclassified</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05655">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05655">
+        <text>bulow_moonquake: A8</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05655">
+        <time>
+          <value>1973-01-04T08:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A8</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05655">
+        <genericAmplitude>
+          <value>0.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05655</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05657">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05657">
+        <text>bulow_moonquake: A6</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05657">
+        <time>
+          <value>1973-01-04T15:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A6</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05657">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05657</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05660">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05660">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05660">
+        <text>bulow_moonquake: A21</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05660">
+        <time>
+          <value>1973-01-04T23:55:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A21</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A21</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05660">
+        <genericAmplitude>
+          <value>1.4</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05660</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05664">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05664">
+        <text>bulow_moonquake: A257</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05664">
+        <time>
+          <value>1973-01-05T09:47:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A257</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05664">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05664</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05665">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05665">
+        <text>bulow_moonquake: A417</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05665">
+        <time>
+          <value>1973-01-05T10:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A417</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05665">
+        <genericAmplitude>
+          <value>0.9</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05665</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05669">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05669">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05669">
+        <text>bulow_moonquake: A18</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05669">
+        <time>
+          <value>1973-01-05T22:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A18</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A18</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05669">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05669</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05670">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05670">
+        <text>OLD A 47</text>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05670">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05670">
+        <text>bulow_moonquake: A1</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05670">
+        <time>
+          <value>1973-01-06T05:37:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A1</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A01</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05670">
+        <genericAmplitude>
+          <value>1.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05670</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05674">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05674">
+        <text>bulow_moonquake: A14</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05674">
+        <time>
+          <value>1973-01-06T15:02:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A14</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05674">
+        <genericAmplitude>
+          <value>0.9</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05674</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05675">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05675">
+        <text>bulow_moonquake: A209</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05675">
+        <time>
+          <value>1973-01-06T16:21:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A209</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05675">
+        <genericAmplitude>
+          <value>0.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05675</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05679">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05679">
+        <time>
+          <value>1973-01-07T02:02:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05679">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05679</pickID>
+      </amplitude>
+      <ns1:moon_event_type>meteoroid</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05681">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05681">
+        <text>bulow_moonquake: A227</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05681">
+        <time>
+          <value>1973-01-07T09:37:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A227</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05681">
+        <genericAmplitude>
+          <value>0.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05681</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05682">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05682">
+        <text>bulow_moonquake: A207</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05682">
+        <time>
+          <value>1973-01-07T12:35:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A207</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05682">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05682</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05683">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05683">
+        <text>bulow_moonquake: A224</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05683">
+        <time>
+          <value>1973-01-07T17:13:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A224</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05683">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05683</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05687">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05687">
+        <text>OLD A48</text>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05687">
+        <text/>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05687">
+        <time>
+          <value>1973-01-08T09:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:nakamura_moonquake>A01</ns0:nakamura_moonquake>
+      </pick>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05688">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05688">
+        <text>bulow_moonquake: A14</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05688">
+        <time>
+          <value>1973-01-08T11:30:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A14</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05688">
+        <genericAmplitude>
+          <value>-1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05688</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05690">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05690">
+        <text>bulow_moonquake: A1</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05690">
+        <time>
+          <value>1973-01-10T00:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A1</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05690">
+        <genericAmplitude>
+          <value>-1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05690</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05692">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05692">
+        <text>bulow_moonquake: A14</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05692">
+        <time>
+          <value>1973-01-10T05:37:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A14</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05692">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05692</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05696">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/bulow07/05696">
+        <text>bulow_moonquake: A343</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05696">
+        <time>
+          <value>1973-01-11T15:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A343</ns0:bulow_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05696">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05696</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05697">
+      <type>earthquake</type>
+      <description>
+        <text>deep moonquake</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/nakamura81/05697">
+        <text/>
+      </comment>
+      <comment id="smi:nakamura81/event/comment/bulow07/05697">
+        <text>bulow_moonquake: A14</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05697">
+        <time>
+          <value>1973-01-11T18:15:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <ns0:bulow_moonquake>A14</ns0:bulow_moonquake>
+        <ns0:nakamura_moonquake>A14</ns0:nakamura_moonquake>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05697">
+        <genericAmplitude>
+          <value>2.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05697</pickID>
+      </amplitude>
+      <ns1:moon_event_type>deep moonquake</ns1:moon_event_type>
+    </event>
+  </eventParameters>
+</q:quakeml>

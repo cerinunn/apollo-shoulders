@@ -1,0 +1,4280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:ns0="http://some-page.de/xmlns/0.1">
+  <eventParameters publicID="smi:local/898832a8-31f8-46cb-b5fb-ebbde5f1eec1">
+    <event publicID="smi:nakamura81/event/05648">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/05648">
+        <time>
+          <value>1973-01-03T23:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05648">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05648">
+        <genericAmplitude>
+          <value>0.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05648</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05679">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/05679">
+        <time>
+          <value>1973-01-07T02:02:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05679">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05679">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05679</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05756">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05756">
+        <text>C 14SP=14</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05756">
+        <time>
+          <value>1973-01-18T23:01:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05756">
+        <genericAmplitude>
+          <value>3.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05756</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05757">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/05757">
+        <time>
+          <value>1973-01-18T23:59:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05757">
+        <genericAmplitude>
+          <value>6.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05757</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05789">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05789">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05789">
+        <time>
+          <value>1973-01-25T16:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05789">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05789</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05790">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05790">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05790">
+        <time>
+          <value>1973-01-25T23:50:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05790">
+        <genericAmplitude>
+          <value>1.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05790</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05791">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/05791">
+        <time>
+          <value>1973-01-26T01:29:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05791">
+        <genericAmplitude>
+          <value>2.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05791</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05792">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/05792">
+        <time>
+          <value>1973-01-26T03:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05792">
+        <genericAmplitude>
+          <value>2.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05792</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05818">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/05818">
+        <time>
+          <value>1973-01-31T00:44:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05818">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05818">
+        <genericAmplitude>
+          <value>8.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05818</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05827">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05827">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05827">
+        <time>
+          <value>1973-02-01T03:43:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05827">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05827">
+        <genericAmplitude>
+          <value>7.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05827</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05833">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05833">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05833">
+        <time>
+          <value>1973-02-02T10:44:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05833">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05833">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05833</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05851">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05851">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05851">
+        <time>
+          <value>1973-02-05T15:27:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05851">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05851">
+        <genericAmplitude>
+          <value>5.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05851</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05853">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05853">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05853">
+        <time>
+          <value>1973-02-05T20:59:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05853">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05853">
+        <genericAmplitude>
+          <value>5.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05853</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05894">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05894">
+        <text>DIST</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05894">
+        <time>
+          <value>1973-02-12T10:56:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05894">
+        <genericAmplitude>
+          <value>11.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05894</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05907">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05907">
+        <text>NEAR 16,SP&gt;&gt;LP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05907">
+        <time>
+          <value>1973-02-13T05:16:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05907">
+        <genericAmplitude>
+          <value>20.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05907</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05949">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05949">
+        <text>DIST  14 LOOKS STRANGE</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05949">
+        <time>
+          <value>1973-02-15T23:35:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05949">
+        <genericAmplitude>
+          <value>10.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05949</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05953">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05953">
+        <text>NEAR 14,LP&gt;SP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05953">
+        <time>
+          <value>1973-02-16T06:31:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05953">
+        <genericAmplitude>
+          <value>1.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05953</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05969">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05969">
+        <text>NEAR 16,SP&gt;LP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05969">
+        <time>
+          <value>1973-02-18T04:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05969">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05969</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05991">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05991">
+        <text>DIST NO SP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05991">
+        <time>
+          <value>1973-02-21T09:23:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05991">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05991">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05991</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06000">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06000">
+        <text>C DIST</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06000">
+        <time>
+          <value>1973-02-24T06:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06000">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06000</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06033">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06033">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06033">
+        <time>
+          <value>1973-03-07T08:54:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06033">
+        <genericAmplitude>
+          <value>9.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06033</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06042">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06042">
+        <time>
+          <value>1973-03-11T21:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06042">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06042">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06042</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06048">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06048">
+        <time>
+          <value>1973-03-12T20:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06048">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06048">
+        <genericAmplitude>
+          <value>20.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06048</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06059">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06059">
+        <text>C SP=10</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06059">
+        <time>
+          <value>1973-03-14T10:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06059">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06059">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06059</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06072">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06072">
+        <text>NEAR 16</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06072">
+        <time>
+          <value>1973-03-15T13:46:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06072">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06072">
+        <genericAmplitude>
+          <value>45.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06072</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06073">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06073">
+        <time>
+          <value>1973-03-15T16:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06073">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06073">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06073</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06100">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06100">
+        <time>
+          <value>1973-03-17T08:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06100">
+        <genericAmplitude>
+          <value>9.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06100</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06116">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06116">
+        <text>C SP=5</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06116">
+        <time>
+          <value>1973-03-19T11:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06116">
+        <genericAmplitude>
+          <value>10.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06116</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06120">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06120">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06120">
+        <time>
+          <value>1973-03-20T06:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06120">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06120</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06122">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06122">
+        <text>14SP=6</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06122">
+        <time>
+          <value>1973-03-20T09:46:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06122">
+          <text>the time recorded with the data is computer-generated, and thus is not exact</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06122">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06122</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06124">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06124">
+        <time>
+          <value>1973-03-20T18:35:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06124">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06124</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06129">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06129">
+        <time>
+          <value>1973-03-22T15:18:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06129">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06129">
+        <genericAmplitude>
+          <value>8.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06129</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06137">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06137">
+        <time>
+          <value>1973-03-23T17:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06137">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06137">
+        <genericAmplitude>
+          <value>10.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06137</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06142">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06142">
+        <text>STA 15,16 TIMING ERRORS</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06142">
+        <time>
+          <value>1973-03-24T19:23:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06142">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06142">
+        <genericAmplitude>
+          <value>13.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06142</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06168">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06168">
+        <time>
+          <value>1973-03-27T15:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06168">
+        <genericAmplitude>
+          <value>8.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06168</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06203">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06203">
+        <text>DISTANT</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06203">
+        <time>
+          <value>1973-04-02T14:17:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06203">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06203">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06203</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06206">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06206">
+        <text>CLOSE C OR Z</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06206">
+        <time>
+          <value>1973-04-03T14:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06206">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06206">
+        <genericAmplitude>
+          <value>3.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06206</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06240">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06240">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06240">
+        <time>
+          <value>1973-04-08T13:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06240">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06240">
+        <genericAmplitude>
+          <value>7.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06240</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06245">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06245">
+        <time>
+          <value>1973-04-11T17:53:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06245">
+        <genericAmplitude>
+          <value>3.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06245</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06246">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06246">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06246">
+        <time>
+          <value>1973-04-13T16:43:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06246">
+        <genericAmplitude>
+          <value>13.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06246</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06247">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06247">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06247">
+        <time>
+          <value>1973-04-13T18:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06247">
+        <genericAmplitude>
+          <value>2.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06247</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06263">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06263">
+        <text>16 CLIPPED</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06263">
+        <time>
+          <value>1973-04-23T13:56:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06263">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06263">
+        <genericAmplitude>
+          <value>50.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06263</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06316">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06316">
+        <text>DIST</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06316">
+        <time>
+          <value>1973-04-29T22:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06316">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06316</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06363">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06363">
+        <text>SR @16 128 1948</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06363">
+        <time>
+          <value>1973-05-09T11:45:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06363">
+        <genericAmplitude>
+          <value>15.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06363</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06368">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06368">
+        <time>
+          <value>1973-05-11T05:13:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06368">
+        <genericAmplitude>
+          <value>3.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06368</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06370">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06370">
+        <text>14SR @1548,12SR@2230</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06370">
+        <time>
+          <value>1973-05-11T20:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06370">
+        <genericAmplitude>
+          <value>3.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06370</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06371">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06371">
+        <text>C SP=4.5</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06371">
+        <time>
+          <value>1973-05-12T21:56:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06371">
+        <genericAmplitude>
+          <value>3.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06371</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06436">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06436">
+        <time>
+          <value>1973-05-23T18:54:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06436">
+        <genericAmplitude>
+          <value>7.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06436</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06445">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06445">
+        <time>
+          <value>1973-05-25T00:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06445">
+        <genericAmplitude>
+          <value>2.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06445</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06450">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06450">
+        <text>C DIST NO SP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06450">
+        <time>
+          <value>1973-05-25T17:06:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06450">
+        <genericAmplitude>
+          <value>2.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06450</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06451">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06451">
+        <time>
+          <value>1973-05-26T01:02:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06451">
+        <genericAmplitude>
+          <value>17.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06451</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06459">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06459">
+        <time>
+          <value>1973-05-27T17:03:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06459">
+        <genericAmplitude>
+          <value>3.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06459</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06461">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06461">
+        <time>
+          <value>1973-05-27T18:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06461">
+        <genericAmplitude>
+          <value>3.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06461</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06469">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06469">
+        <time>
+          <value>1973-05-28T10:55:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06469">
+          <text>signal is masked by another, larger event</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06469">
+        <genericAmplitude>
+          <value>4.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06469</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06470">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06470">
+        <time>
+          <value>1973-05-28T11:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06470">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06470</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06472">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06472">
+        <time>
+          <value>1973-05-28T16:08:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06472">
+        <genericAmplitude>
+          <value>5.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06472</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06477">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06477">
+        <text>C DIST NO SP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06477">
+        <time>
+          <value>1973-05-29T01:54:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06477">
+        <genericAmplitude>
+          <value>2.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06477</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06484">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06484">
+        <time>
+          <value>1973-05-29T08:27:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06484">
+        <genericAmplitude>
+          <value>2.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06484</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06485">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06485">
+        <text>SP=2.5 LONG RISE TIME</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06485">
+        <time>
+          <value>1973-05-29T10:01:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06485">
+        <genericAmplitude>
+          <value>14.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06485</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06498">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06498">
+        <time>
+          <value>1973-05-30T20:27:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06498">
+        <genericAmplitude>
+          <value>2.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06498</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06499">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06499">
+        <time>
+          <value>1973-05-30T21:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06499">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06499</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06505">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06505">
+        <time>
+          <value>1973-06-01T06:50:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06505">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06505</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06507">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06507">
+        <time>
+          <value>1973-06-01T22:39:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06507">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06507</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06513">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06513">
+        <time>
+          <value>1973-06-02T19:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06513">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06513</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06514">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06514">
+        <time>
+          <value>1973-06-02T23:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06514">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06514</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06517">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06517">
+        <time>
+          <value>1973-06-04T04:50:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06517">
+        <genericAmplitude>
+          <value>2.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06517</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06519">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06519">
+        <time>
+          <value>1973-06-04T08:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06519">
+        <genericAmplitude>
+          <value>2.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06519</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06521">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06521">
+        <time>
+          <value>1973-06-04T20:20:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06521">
+        <genericAmplitude>
+          <value>1.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06521</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06522">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06522">
+        <text>14SP=2</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06522">
+        <time>
+          <value>1973-06-05T02:38:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06522">
+        <genericAmplitude>
+          <value>6.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06522</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06525">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06525">
+        <time>
+          <value>1973-06-06T07:38:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06525">
+        <genericAmplitude>
+          <value>1.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06525</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06527">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06527">
+        <time>
+          <value>1973-06-06T22:39:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06527">
+        <genericAmplitude>
+          <value>1.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06527</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06528">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06528">
+        <text>14SP=0.5</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06528">
+        <time>
+          <value>1973-06-07T00:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06528">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06528</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06529">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06529">
+        <text>C NO SP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06529">
+        <time>
+          <value>1973-06-07T03:45:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06529">
+        <genericAmplitude>
+          <value>1.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06529</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06530">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06530">
+        <text>SR @ 16 158 0655</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06530">
+        <time>
+          <value>1973-06-07T05:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06530">
+        <genericAmplitude>
+          <value>1.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06530</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06534">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06534">
+        <time>
+          <value>1973-06-09T07:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06534">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06534">
+        <genericAmplitude>
+          <value>3.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06534</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06536">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06536">
+        <time>
+          <value>1973-06-09T16:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06536">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06536">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06536</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06539">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06539">
+        <time>
+          <value>1973-06-12T00:25:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06539">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06539">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06539</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06541">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06541">
+        <time>
+          <value>1973-06-13T04:50:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06541">
+        <genericAmplitude>
+          <value>3.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06541</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06543">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06543">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06543">
+        <time>
+          <value>1973-06-13T22:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06543">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06543</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06544">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06544">
+        <time>
+          <value>1973-06-14T02:20:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06544">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06544</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06546">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06546">
+        <time>
+          <value>1973-06-14T12:53:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06546">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06546</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06552">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06552">
+        <time>
+          <value>1973-06-16T05:55:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06552">
+        <genericAmplitude>
+          <value>3.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06552</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06555">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06555">
+        <time>
+          <value>1973-06-16T16:43:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06555">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06555</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06556">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06556">
+        <time>
+          <value>1973-06-16T18:43:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06556">
+        <genericAmplitude>
+          <value>2.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06556</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06569">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06569">
+        <time>
+          <value>1973-06-22T06:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06569">
+        <genericAmplitude>
+          <value>5.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06569</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06576">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06576">
+        <time>
+          <value>1973-06-23T08:20:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06576">
+        <genericAmplitude>
+          <value>3.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06576</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06581">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06581">
+        <text>C SP=4</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06581">
+        <time>
+          <value>1973-06-24T22:54:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06581">
+        <genericAmplitude>
+          <value>4.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06581</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06620">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06620">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06620">
+        <time>
+          <value>1973-06-27T18:36:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06620">
+        <genericAmplitude>
+          <value>20.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06620</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06652">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06652">
+        <text>DISTANT</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06652">
+        <time>
+          <value>1973-07-02T06:00:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06652">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06652</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06662">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06662">
+        <text>DISTANT</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06662">
+        <time>
+          <value>1973-07-03T18:15:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06662">
+        <genericAmplitude>
+          <value>5.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06662</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06664">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06664">
+        <time>
+          <value>1973-07-04T02:46:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06664">
+        <genericAmplitude>
+          <value>20.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06664</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06665">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06665">
+        <time>
+          <value>1973-07-04T05:12:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06665">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06665</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06675">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06675">
+        <text>187/1725 SR AT 16</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06675">
+        <time>
+          <value>1973-07-08T05:30:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06675">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06675</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06683">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06683">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06683">
+        <time>
+          <value>1973-07-10T06:14:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06683">
+        <genericAmplitude>
+          <value>3.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06683</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06687">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06687">
+        <time>
+          <value>1973-07-10T18:15:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06687">
+        <genericAmplitude>
+          <value>3.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06687</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06707">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06707">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06707">
+        <time>
+          <value>1973-07-12T18:03:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06707">
+        <genericAmplitude>
+          <value>4.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06707</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06729">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06729">
+        <text>C DIST NO SP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06729">
+        <time>
+          <value>1973-07-16T11:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06729">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06729</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06743">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06743">
+        <time>
+          <value>1973-07-20T08:18:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06743">
+        <genericAmplitude>
+          <value>35.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06743</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06758">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06758">
+        <text>C,16SPZ=20</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06758">
+        <time>
+          <value>1973-07-23T01:14:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06758">
+        <genericAmplitude>
+          <value>9.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06758</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06772">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06772">
+        <text>DIST.</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06772">
+        <time>
+          <value>1973-07-24T08:45:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06772">
+        <genericAmplitude>
+          <value>4.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06772</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06796">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06796">
+        <text>C,16SPZ=21</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06796">
+        <time>
+          <value>1973-07-28T11:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06796">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06796</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06800">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06800">
+        <time>
+          <value>1973-07-29T18:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06800">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06800">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06800</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06802">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06802">
+        <text>14SP=5</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06802">
+        <time>
+          <value>1973-07-29T23:31:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06802">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06802">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06802</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06807">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06807">
+        <time>
+          <value>1973-07-31T06:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06807">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06807">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06807</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06809">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06809">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06809">
+        <time>
+          <value>1973-07-31T09:55:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06809">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06809">
+        <genericAmplitude>
+          <value>35.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06809</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06818">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06818">
+        <time>
+          <value>1973-08-01T08:54:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06818">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06818">
+        <genericAmplitude>
+          <value>6.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06818</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06819">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06819">
+        <text>14SP=2.2</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06819">
+        <time>
+          <value>1973-08-01T11:02:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06819">
+          <text>the time recorded with the data is computer-generated, and thus is not exact</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06819">
+        <genericAmplitude>
+          <value>10.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06819</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06834">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06834">
+        <text>C SP=4</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06834">
+        <time>
+          <value>1973-08-03T19:01:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06834">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06834">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06834</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06843">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06843">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06843">
+        <time>
+          <value>1973-08-06T07:03:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06843">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06843">
+        <genericAmplitude>
+          <value>6.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06843</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06858">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06858">
+        <time>
+          <value>1973-08-08T17:19:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06858">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06858">
+        <genericAmplitude>
+          <value>13.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06858</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06860">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06860">
+        <time>
+          <value>1973-08-08T23:47:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06860">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06860">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06860</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06902">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06902">
+        <time>
+          <value>1973-08-19T07:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06902">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06902">
+        <genericAmplitude>
+          <value>6.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06902</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06910">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06910">
+        <text>14SP=3</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06910">
+        <time>
+          <value>1973-08-21T12:17:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06910">
+        <genericAmplitude>
+          <value>30.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06910</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06918">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06918">
+        <text>16A=2*(16LPX)  SP=2</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06918">
+        <time>
+          <value>1973-08-25T02:45:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06918">
+          <text>see comments</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06918">
+        <genericAmplitude>
+          <value>14.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06918</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06923">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06923">
+        <text>16A=2*LPX TO 247/1000</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06923">
+        <time>
+          <value>1973-08-29T15:33:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06923">
+          <text>see comments</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06923">
+        <genericAmplitude>
+          <value>2.4</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06923</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06930">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06930">
+        <text>14SP=55</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06930">
+        <time>
+          <value>1973-09-01T01:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06933">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06933">
+        <text>DIST</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06933">
+        <time>
+          <value>1973-09-01T06:59:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06933">
+        <genericAmplitude>
+          <value>6.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06933</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06935">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06935">
+        <text>DIST</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06935">
+        <time>
+          <value>1973-09-01T09:30:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06935">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06935</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06938">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06938">
+        <text>14SP=5</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06938">
+        <time>
+          <value>1973-09-01T12:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06938">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06938</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06949">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06949">
+        <time>
+          <value>1973-09-02T16:47:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06949">
+        <genericAmplitude>
+          <value>3.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06949</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06964">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06964">
+        <time>
+          <value>1973-09-05T11:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/06964">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06964">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06964</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06976">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/06976">
+        <text>C,SP&lt;LP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/06976">
+        <time>
+          <value>1973-09-08T02:59:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06976">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06976</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06994">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/06994">
+        <time>
+          <value>1973-09-09T11:25:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/06994">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/06994</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07027">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07027">
+        <time>
+          <value>1973-09-12T09:13:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07027">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07027</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07056">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07056">
+        <time>
+          <value>1973-09-16T02:24:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07056">
+        <genericAmplitude>
+          <value>5.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07056</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07073">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07073">
+        <text>FARSIDE</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07073">
+        <time>
+          <value>1973-09-19T09:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07073">
+        <genericAmplitude>
+          <value>58.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07073</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07080">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07080">
+        <text>12 SS@264/1110</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07080">
+        <time>
+          <value>1973-09-21T11:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07080">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07080</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07082">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07082">
+        <text>16A=2*LPZ TO 276/2300</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07082">
+        <time>
+          <value>1973-09-23T04:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07082">
+          <text>see comments</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07082">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07082</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07086">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07086">
+        <time>
+          <value>1973-09-26T20:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07086">
+        <genericAmplitude>
+          <value>19.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07086</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07087">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07087">
+        <time>
+          <value>1973-09-26T23:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07087">
+        <genericAmplitude>
+          <value>6.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07087</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07117">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07117">
+        <text>FAR-SIDE</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07117">
+        <time>
+          <value>1973-10-03T20:31:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07117">
+        <genericAmplitude>
+          <value>18.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07117</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07122">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07122">
+        <time>
+          <value>1973-10-05T13:45:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07122">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07122">
+        <genericAmplitude>
+          <value>2.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07122</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07147">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07147">
+        <text>DISTANT C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07147">
+        <time>
+          <value>1973-10-07T12:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07147">
+        <genericAmplitude>
+          <value>2.7</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07147</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07150">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07150">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07150">
+        <time>
+          <value>1973-10-07T16:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07150">
+        <genericAmplitude>
+          <value>4.9</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07150</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07154">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07154">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07154">
+        <time>
+          <value>1973-10-07T21:37:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07154">
+        <genericAmplitude>
+          <value>3.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07154</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07187">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07187">
+        <time>
+          <value>1973-10-10T03:01:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07187">
+        <genericAmplitude>
+          <value>10.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07187</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07250">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07250">
+        <text>DISTANT C,15 SS@292,0100</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07250">
+        <time>
+          <value>1973-10-18T13:49:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07250">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07250</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07252">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07252">
+        <text>DISTANT    SYNC ERRORS AT 16</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07252">
+        <time>
+          <value>1973-10-19T10:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07252">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07252">
+        <genericAmplitude>
+          <value>3.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07252</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07257">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07257">
+        <text>12 SS@294.0100</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07257">
+        <time>
+          <value>1973-10-21T05:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07257">
+        <genericAmplitude>
+          <value>11.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07257</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07259">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07259">
+        <text>C NEAR 16</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07259">
+        <time>
+          <value>1973-10-22T08:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07259">
+        <genericAmplitude>
+          <value>20.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07259</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07264">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07264">
+        <time>
+          <value>1973-10-24T10:34:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07264">
+        <genericAmplitude>
+          <value>7.4</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07264</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07276">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07276">
+        <time>
+          <value>1973-10-29T07:50:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07276">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07276">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07276</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07278">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07278">
+        <time>
+          <value>1973-10-29T19:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07278">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07278">
+        <genericAmplitude>
+          <value>3.6</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07278</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07280">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07280">
+        <time>
+          <value>1973-10-30T05:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07280">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07280">
+        <genericAmplitude>
+          <value>5.4</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07280</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07287">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07287">
+        <time>
+          <value>1973-11-01T08:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07287">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07287">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07287</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07289">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07289">
+        <time>
+          <value>1973-11-03T10:00:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07289">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07289">
+        <genericAmplitude>
+          <value>1.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07289</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07290">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07290">
+        <time>
+          <value>1973-11-03T16:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07290">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07290">
+        <genericAmplitude>
+          <value>2.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07290</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07296">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07296">
+        <text>C</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07296">
+        <time>
+          <value>1973-11-05T17:21:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07296">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07296</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07298">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07298">
+        <text>14SP=4</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07298">
+        <time>
+          <value>1973-11-06T03:38:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07298">
+        <genericAmplitude>
+          <value>4.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07298</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07300">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07300">
+        <time>
+          <value>1973-11-07T14:38:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07300">
+        <genericAmplitude>
+          <value>2.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07300</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07321">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07321">
+        <time>
+          <value>1973-11-10T02:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07321">
+        <genericAmplitude>
+          <value>2.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07321</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07331">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07331">
+        <time>
+          <value>1973-11-13T15:45:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07331">
+        <genericAmplitude>
+          <value>4.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07331</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07333">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07333">
+        <time>
+          <value>1973-11-17T01:53:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07333">
+        <genericAmplitude>
+          <value>3.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07333</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07335">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07335">
+        <time>
+          <value>1973-11-18T14:23:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07335">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07335">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07335</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07336">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07336">
+        <text>16A=2*LPX TO 334/2300</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07336">
+        <time>
+          <value>1973-11-20T21:00:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07336">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07336">
+        <genericAmplitude>
+          <value>3.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07336</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07358">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07358">
+        <text>DISTANT</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07358">
+        <time>
+          <value>1973-11-27T14:06:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07358">
+        <genericAmplitude>
+          <value>2.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07358</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07361">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07361">
+        <time>
+          <value>1973-11-29T22:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07361">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07361</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07362">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07362">
+        <time>
+          <value>1973-11-30T11:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07362">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07362</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07391">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07391">
+        <time>
+          <value>1973-12-05T13:18:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07391">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07391</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07412">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07412">
+        <time>
+          <value>1973-12-07T05:57:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07412">
+        <genericAmplitude>
+          <value>4.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07412</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07424">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07424">
+        <time>
+          <value>1973-12-10T12:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07424">
+        <genericAmplitude>
+          <value>4.4</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07424</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07429">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07429">
+        <time>
+          <value>1973-12-10T22:08:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07429">
+        <genericAmplitude>
+          <value>7.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07429</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07432">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07432">
+        <time>
+          <value>1973-12-13T06:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/07432">
+          <text>noisy data</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07432">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07432</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07436">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07436">
+        <text>C?SP=3? SP NOISY</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07436">
+        <time>
+          <value>1973-12-16T05:55:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07436">
+        <genericAmplitude>
+          <value>4.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07436</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07438">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07438">
+        <time>
+          <value>1973-12-16T07:47:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07438">
+        <genericAmplitude>
+          <value>3.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07438</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07443">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07443">
+        <text>CLOSE TO STA 16 GOOD SP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07443">
+        <time>
+          <value>1973-12-18T21:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07443">
+        <genericAmplitude>
+          <value>22.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07443</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07480">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07480">
+        <time>
+          <value>1973-12-23T21:34:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07480">
+        <genericAmplitude>
+          <value>8.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07480</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07484">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S16/07484">
+        <time>
+          <value>1973-12-24T10:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07484">
+        <genericAmplitude>
+          <value>13.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07484</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07492">
+      <type>meteorite</type>
+      <description>
+        <text>meteoroid</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07492">
+        <text>DIST</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/07492">
+        <time>
+          <value>1973-12-28T08:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/07492">
+        <genericAmplitude>
+          <value>2.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/07492</pickID>
+      </amplitude>
+      <ns0:moon_event_type>meteoroid</ns0:moon_event_type>
+    </event>
+  </eventParameters>
+</q:quakeml>

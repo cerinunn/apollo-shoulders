@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:ns0="http://some-page.de/xmlns/0.1">
+  <eventParameters publicID="smi:local/119ea6da-fee6-48e6-a953-748bb5cca6e7">
+    <event publicID="smi:nakamura81/event/05481">
+      <type>crash</type>
+      <description>
+        <text>S-IVB impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05481">
+        <text>17 S4B IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05481">
+        <time>
+          <value>1972-12-10T20:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S16/05481">
+          <text>compressed plot is clipped (original digital data may not be clipped)</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05481">
+        <genericAmplitude>
+          <value>52.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05481</pickID>
+      </amplitude>
+      <ns0:moon_event_type>S-IVB impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05506">
+      <type>crash</type>
+      <description>
+        <text>LM impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05506">
+        <text>17 LM IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S16/05506">
+        <time>
+          <value>1972-12-15T06:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S16" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S16/05506">
+        <genericAmplitude>
+          <value>21.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S16/05506</pickID>
+      </amplitude>
+      <ns0:moon_event_type>LM impact</ns0:moon_event_type>
+    </event>
+  </eventParameters>
+</q:quakeml>

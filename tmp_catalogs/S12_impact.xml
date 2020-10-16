@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:ns0="http://some-page.de/xmlns/0.1">
+  <eventParameters publicID="smi:local/99487931-2683-48e4-818e-3137ec3ee40a">
+    <event publicID="smi:nakamura81/event/00010">
+      <type>crash</type>
+      <description>
+        <text>LM impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/00010">
+        <text>12 LM IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/00010">
+        <time>
+          <value>1969-11-20T22:17:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S12/00010">
+          <text>see comments</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/00010">
+        <genericAmplitude>
+          <value>30.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/00010</pickID>
+      </amplitude>
+      <ns0:moon_event_type>LM impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/00255">
+      <type>crash</type>
+      <description>
+        <text>S-IVB impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/00255">
+        <text>13 S4B IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/00255">
+        <time>
+          <value>1970-04-15T01:09:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S12/00255">
+          <text>see comments</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/00255">
+        <genericAmplitude>
+          <value>790.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/00255</pickID>
+      </amplitude>
+      <ns0:moon_event_type>S-IVB impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/00753">
+      <type>crash</type>
+      <description>
+        <text>S-IVB impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/00753">
+        <text>T? 14 S4B IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/00753">
+        <time>
+          <value>1971-02-04T07:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/00753">
+        <genericAmplitude>
+          <value>570.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/00753</pickID>
+      </amplitude>
+      <ns0:moon_event_type>S-IVB impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/00756">
+      <type>crash</type>
+      <description>
+        <text>LM impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/00756">
+        <text>14 LM IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/00756">
+        <time>
+          <value>1971-02-07T00:47:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/00756">
+        <genericAmplitude>
+          <value>40.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/00756</pickID>
+      </amplitude>
+      <ns0:moon_event_type>LM impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/01605">
+      <type>crash</type>
+      <description>
+        <text>S-IVB impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/01605">
+        <text>15 S4B IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/01605">
+        <time>
+          <value>1971-07-29T21:00:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/01605">
+        <genericAmplitude>
+          <value>145.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/01605</pickID>
+      </amplitude>
+      <ns0:moon_event_type>S-IVB impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/01616">
+      <type>crash</type>
+      <description>
+        <text>LM impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/01616">
+        <text>15 LM IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/01616">
+        <time>
+          <value>1971-08-03T03:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/01616">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/01616</pickID>
+      </amplitude>
+      <ns0:moon_event_type>LM impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/03050">
+      <type>crash</type>
+      <description>
+        <text>S-IVB impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/03050">
+        <text>16 S4B IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/03050">
+        <time>
+          <value>1972-04-19T21:03:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/03050">
+        <genericAmplitude>
+          <value>470.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/03050</pickID>
+      </amplitude>
+      <ns0:moon_event_type>S-IVB impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05481">
+      <type>crash</type>
+      <description>
+        <text>S-IVB impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05481">
+        <text>17 S4B IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05481">
+        <time>
+          <value>1972-12-10T20:32:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:nakamura81/pick/comment/S12/05481">
+          <text>compressed plot is clipped (original digital data may not be clipped)</text>
+        </comment>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05481">
+        <genericAmplitude>
+          <value>50.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05481</pickID>
+      </amplitude>
+      <ns0:moon_event_type>S-IVB impact</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05506">
+      <type>crash</type>
+      <description>
+        <text>LM impact</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/05506">
+        <text>17 LM IMP</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/05506">
+        <time>
+          <value>1972-12-15T06:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05506">
+        <genericAmplitude>
+          <value>5.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05506</pickID>
+      </amplitude>
+      <ns0:moon_event_type>LM impact</ns0:moon_event_type>
+    </event>
+  </eventParameters>
+</q:quakeml>

@@ -1,0 +1,7 @@
+smi:nakamura81/event/01122
+smi:nakamura81/event/01264
+smi:nakamura81/event/01555
+smi:nakamura81/event/06051
+smi:nakamura81/event/06567
+smi:nakamura81/event/08269
+smi:nakamura81/event/09287

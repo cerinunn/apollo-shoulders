@@ -1,0 +1,1095 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:ns0="http://some-page.de/xmlns/0.1">
+  <eventParameters publicID="smi:local/050f9a50-7611-4a20-a643-0b5a8cb03ced">
+    <event publicID="smi:nakamura81/event/05654">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05654">
+        <time>
+          <value>1973-01-04T07:25:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05654">
+        <genericAmplitude>
+          <value>0.7</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05654</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05740">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05740">
+        <time>
+          <value>1973-01-16T09:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05740">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05740</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05755">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05755">
+        <time>
+          <value>1973-01-18T18:15:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05755">
+        <genericAmplitude>
+          <value>1.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05755</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05770">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05770">
+        <time>
+          <value>1973-01-20T07:39:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05770">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05770</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05772">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05772">
+        <time>
+          <value>1973-01-20T11:33:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05772">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05772</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05781">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05781">
+        <time>
+          <value>1973-01-22T11:08:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05781">
+        <genericAmplitude>
+          <value>1.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05781</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05782">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05782">
+        <time>
+          <value>1973-01-22T14:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05782">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05782</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05785">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05785">
+        <time>
+          <value>1973-01-23T06:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05785">
+        <genericAmplitude>
+          <value>1.4</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05785</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05843">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05843">
+        <time>
+          <value>1973-02-03T15:33:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05843">
+        <genericAmplitude>
+          <value>0.7</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05843</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05865">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05865">
+        <time>
+          <value>1973-02-09T15:09:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05865">
+        <genericAmplitude>
+          <value>1.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05865</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/05883">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/05883">
+        <time>
+          <value>1973-02-10T21:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/05883">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/05883</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06114">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06114">
+        <time>
+          <value>1973-03-19T03:38:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06114">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06114</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06130">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06130">
+        <time>
+          <value>1973-03-22T17:03:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06130">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06130</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06131">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06131">
+        <time>
+          <value>1973-03-22T19:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06131">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06131</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06133">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06133">
+        <time>
+          <value>1973-03-23T03:22:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06133">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06133</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06334">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06334">
+        <time>
+          <value>1973-05-02T23:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06334">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06334</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06416">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06416">
+        <time>
+          <value>1973-05-17T04:10:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06416">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06416</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06432">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06432">
+        <time>
+          <value>1973-05-20T15:51:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06432">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06432</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06480">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06480">
+        <time>
+          <value>1973-05-29T04:17:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06480">
+        <genericAmplitude>
+          <value>0.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06480</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06510">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06510">
+        <time>
+          <value>1973-06-02T04:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06510">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06510</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06643">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06643">
+        <time>
+          <value>1973-07-01T00:56:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06643">
+        <genericAmplitude>
+          <value>0.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06643</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06644">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06644">
+        <time>
+          <value>1973-07-01T01:21:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06644">
+        <genericAmplitude>
+          <value>0.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06644</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06645">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06645">
+        <time>
+          <value>1973-07-01T02:20:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06645">
+        <genericAmplitude>
+          <value>0.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06645</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06696">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06696">
+        <time>
+          <value>1973-07-11T17:18:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06696">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06696</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06709">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06709">
+        <time>
+          <value>1973-07-12T21:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06709">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06709</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06750">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06750">
+        <time>
+          <value>1973-07-22T01:15:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06750">
+        <genericAmplitude>
+          <value>0.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06750</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06759">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06759">
+        <time>
+          <value>1973-07-23T05:05:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06759">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06759</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06766">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06766">
+        <time>
+          <value>1973-07-23T12:40:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06766">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06766</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06773">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06773">
+        <time>
+          <value>1973-07-24T14:43:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06773">
+        <genericAmplitude>
+          <value>2.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06773</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06787">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06787">
+        <time>
+          <value>1973-07-26T15:51:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06787">
+        <genericAmplitude>
+          <value>0.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06787</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06842">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06842">
+        <time>
+          <value>1973-08-06T05:58:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06842">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06842</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06872">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06872">
+        <time>
+          <value>1973-08-10T22:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06872">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06872</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/06926">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/06926">
+        <time>
+          <value>1973-08-30T21:42:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/06926">
+        <genericAmplitude>
+          <value>1.3</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/06926</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07033">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07033">
+        <time>
+          <value>1973-09-12T19:41:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07033">
+        <genericAmplitude>
+          <value>1.5</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07033</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07034">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07034">
+        <time>
+          <value>1973-09-12T23:01:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07034">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07034</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07060">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07060">
+        <time>
+          <value>1973-09-16T15:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07060">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07060</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07104">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07104">
+        <time>
+          <value>1973-10-01T19:20:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07104">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07104</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07115">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07115">
+        <text>14-DEAD</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/07115">
+        <time>
+          <value>1973-10-03T08:27:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07115">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07115</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07124">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07124">
+        <text>14 SR@279/0010</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/07124">
+        <time>
+          <value>1973-10-06T02:16:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07124">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07124</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07222">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07222">
+        <time>
+          <value>1973-10-12T08:01:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07222">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07222</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07241">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07241">
+        <time>
+          <value>1973-10-16T09:07:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07241">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07241</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07247">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07247">
+        <time>
+          <value>1973-10-17T16:11:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07247">
+        <genericAmplitude>
+          <value>1.1</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07247</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07248">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07248">
+        <time>
+          <value>1973-10-18T03:02:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07248">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07248</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07372">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07372">
+        <time>
+          <value>1973-12-02T23:52:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07372">
+        <genericAmplitude>
+          <value>1.2</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07372</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07411">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07411">
+        <time>
+          <value>1973-12-07T05:28:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07411">
+        <genericAmplitude>
+          <value>0.8</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07411</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07470">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <pick publicID="smi:nakamura81/pick/S12/07470">
+        <time>
+          <value>1973-12-22T19:48:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07470">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07470</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+    <event publicID="smi:nakamura81/event/07502">
+      <type>not reported</type>
+      <description>
+        <text>unclassified</text>
+      </description>
+      <comment id="smi:nakamura81/event/comment/07502">
+        <text>16? SR@16 2156 DAY 364</text>
+      </comment>
+      <pick publicID="smi:nakamura81/pick/S12/07502">
+        <time>
+          <value>1973-12-30T15:21:00.000000Z</value>
+          <uncertainty>60.0</uncertainty>
+        </time>
+        <waveformID networkCode="XA" stationCode="S12" locationCode="" channelCode=""></waveformID>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <amplitude publicID="smi:nakamura81/amplitude/S12/07502">
+        <genericAmplitude>
+          <value>1.0</value>
+        </genericAmplitude>
+        <type>A</type>
+        <unit>other</unit>
+        <pickID>smi:nakamura81/pick/S12/07502</pickID>
+      </amplitude>
+      <ns0:moon_event_type>unclassified</ns0:moon_event_type>
+    </event>
+  </eventParameters>
+</q:quakeml>

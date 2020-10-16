@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML schemaVersion="1.0" xmlns="http://www.fdsn.org/xml/station/1">
+  <Source>--input</Source>
+  <Module>fdsn-stationxml-converter/1.0.9</Module>
+  <ModuleURI>http://www.iris.edu/fdsnstationconverter</ModuleURI>
+  <Created>2017-04-03T19:32:53+00:00</Created>
+  <Network code="XA">
+    <Description>Apollo Lunar Seismic</Description>
+    <Station code="S12" endDate="1977-09-30T18:50:00.000" startDate="1969-11-19T14:23:00.000">
+      <Comment>
+        <Value>Sensors responses contain nominal values.</Value>
+        <BeginEffectiveTime>1969-11-19T14:23:00.000</BeginEffectiveTime>
+        <EndEffectiveTime>1977-09-30T18:50:00.000</EndEffectiveTime>
+      </Comment>
+      <Latitude unit="DEGREES">-3.01084</Latitude>
+      <Longitude unit="DEGREES">-23.42456</Longitude>
+      <Elevation>-1424.</Elevation>
+      <Site>
+        <Name>ALSEP 12, Oceanus Procellarum, Moon</Name>
+      </Site>
+      <CreationDate>1969-11-19T14:23:00.000</CreationDate>
+      <Channel code="MH1" endDate="1977-09-30T18:50:00.000" locationCode="" startDate="1969-11-19T14:23:00.000">
+        <Comment>
+            <Value>Broadband Mode</Value>
+        </Comment>
+        <Latitude unit="DEGREES">-3.01084</Latitude>
+        <Longitude unit="DEGREES">-23.42456</Longitude>
+        <Elevation>-1424.</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">180.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <Type>CONTINUOUS</Type>
+        <Type>GEOPHYSICAL</Type>
+        <SampleRate unit="SAMPLES/S">6.625</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0001</ClockDrift>
+        <Sensor>
+          <Description>Apollo PSE Alsep Seismometer</Description>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2861130000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>M</Name>
+              <Description>Displacement</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1">
+            <PolesZeros>
+              <InputUnits>
+                <Name>M</Name>
+                <Description>Displacement</Description>
+              </InputUnits>
+              <OutputUnits>
+                <Name>COUNTS</Name>
+                <Description>Counts</Description>
+              </OutputUnits>
+              <PzTransferFunctionType>LAPLACE (RADIANS/SECOND)</PzTransferFunctionType>
+              <NormalizationFactor>36136300.0</NormalizationFactor>
+              <NormalizationFrequency unit="HERTZ">1.0</NormalizationFrequency>
+              <Zero number="0">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="1">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="2">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="3">
+                <Real minusError="0.0" plusError="0.0">0.000997331</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Pole number="0">
+                <Real minusError="0.0" plusError="0.0">-0.326867</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.174711</Imaginary>
+              </Pole>
+              <Pole number="1">
+                <Real minusError="0.0" plusError="0.0">-0.326867</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-0.174711</Imaginary>
+              </Pole>
+              <Pole number="2">
+                <Real minusError="0.0" plusError="0.0">-0.059357</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Pole>
+              <Pole number="3">
+                <Real minusError="0.0" plusError="0.0">-0.0628319</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Pole>
+              <Pole number="4">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">3.33954</Imaginary>
+              </Pole>
+              <Pole number="5">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-3.33954</Imaginary>
+              </Pole>
+              <Pole number="6">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">3.33954</Imaginary>
+              </Pole>
+              <Pole number="7">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-3.33954</Imaginary>
+              </Pole>
+              <Pole number="8">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">8.06237</Imaginary>
+              </Pole>
+              <Pole number="9">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-8.06237</Imaginary>
+              </Pole>
+              <Pole number="10">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">8.06237</Imaginary>
+              </Pole>
+              <Pole number="11">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-8.06237</Imaginary>
+              </Pole>
+            </PolesZeros>
+            <Decimation>
+              <InputSampleRate unit="HERTZ">6.625</InputSampleRate>
+              <Factor>1</Factor>
+              <Offset>0</Offset>
+              <Delay>0.0</Delay>
+              <Correction>0.0</Correction>
+            </Decimation>
+            <StageGain>
+              <Value>2861130000.0</Value>
+              <Frequency>1.0</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="MH2" endDate="1977-09-30T18:50:00.000" locationCode="" startDate="1969-11-19T14:23:00.000">
+        <Comment>
+          <Value>Broadband Mode</Value>
+        </Comment>
+        <Latitude unit="DEGREES">-3.01084</Latitude>
+        <Longitude unit="DEGREES">-23.42456</Longitude>
+        <Elevation>-1424.</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">270.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <Type>CONTINUOUS</Type>
+        <Type>GEOPHYSICAL</Type>
+        <SampleRate unit="SAMPLES/S">6.625</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0001</ClockDrift>
+        <Sensor>
+          <Description>Apollo PSE Alsep Seismometer</Description>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2861130000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>M</Name>
+              <Description>Displacement</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1">
+            <PolesZeros>
+              <InputUnits>
+                <Name>M</Name>
+                <Description>Displacement</Description>
+              </InputUnits>
+              <OutputUnits>
+                <Name>COUNTS</Name>
+                <Description>Counts</Description>
+              </OutputUnits>
+              <PzTransferFunctionType>LAPLACE (RADIANS/SECOND)</PzTransferFunctionType>
+              <NormalizationFactor>36136300.0</NormalizationFactor>
+              <NormalizationFrequency unit="HERTZ">1.0</NormalizationFrequency>
+              <Zero number="0">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="1">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="2">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="3">
+                <Real minusError="0.0" plusError="0.0">0.000997331</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Pole number="0">
+                <Real minusError="0.0" plusError="0.0">-0.326867</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.174711</Imaginary>
+              </Pole>
+              <Pole number="1">
+                <Real minusError="0.0" plusError="0.0">-0.326867</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-0.174711</Imaginary>
+              </Pole>
+              <Pole number="2">
+                <Real minusError="0.0" plusError="0.0">-0.059357</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Pole>
+              <Pole number="3">
+                <Real minusError="0.0" plusError="0.0">-0.0628319</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Pole>
+              <Pole number="4">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">3.33954</Imaginary>
+              </Pole>
+              <Pole number="5">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-3.33954</Imaginary>
+              </Pole>
+              <Pole number="6">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">3.33954</Imaginary>
+              </Pole>
+              <Pole number="7">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-3.33954</Imaginary>
+              </Pole>
+              <Pole number="8">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">8.06237</Imaginary>
+              </Pole>
+              <Pole number="9">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-8.06237</Imaginary>
+              </Pole>
+              <Pole number="10">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">8.06237</Imaginary>
+              </Pole>
+              <Pole number="11">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-8.06237</Imaginary>
+              </Pole>
+            </PolesZeros>
+            <Decimation>
+              <InputSampleRate unit="HERTZ">6.625</InputSampleRate>
+              <Factor>1</Factor>
+              <Offset>0</Offset>
+              <Delay>0.0</Delay>
+              <Correction>0.0</Correction>
+            </Decimation>
+            <StageGain>
+              <Value>2861130000.0</Value>
+              <Frequency>1.0</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+      <Channel code="MHZ" endDate="1977-09-30T18:50:00.000" locationCode="" startDate="1969-11-19T14:23:00.000">
+        <Comment>
+          <Value>Broadband Mode</Value>
+        </Comment>
+        <Latitude unit="DEGREES">-3.01084</Latitude>
+        <Longitude unit="DEGREES">-23.42456</Longitude>
+        <Elevation>-1424.</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <Type>CONTINUOUS</Type>
+        <Type>GEOPHYSICAL</Type>
+        <SampleRate unit="SAMPLES/S">6.625</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0001</ClockDrift>
+        <Sensor>
+          <Description>Apollo PSE Alsep Seismometer</Description>
+        </Sensor>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>2861130000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>M</Name>
+              <Description>Displacement</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>COUNTS</Name>
+              <Description>Counts</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+          <Stage number="1">
+            <PolesZeros>
+              <InputUnits>
+                <Name>M</Name>
+                <Description>Displacement</Description>
+              </InputUnits>
+              <OutputUnits>
+                <Name>COUNTS</Name>
+                <Description>Counts</Description>
+              </OutputUnits>
+              <PzTransferFunctionType>LAPLACE (RADIANS/SECOND)</PzTransferFunctionType>
+              <NormalizationFactor>36136300.0</NormalizationFactor>
+              <NormalizationFrequency unit="HERTZ">1.0</NormalizationFrequency>
+              <Zero number="0">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="1">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="2">
+                <Real minusError="0.0" plusError="0.0">0.0</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Zero number="3">
+                <Real minusError="0.0" plusError="0.0">0.000997331</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Zero>
+              <Pole number="0">
+                <Real minusError="0.0" plusError="0.0">-0.326867</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.174711</Imaginary>
+              </Pole>
+              <Pole number="1">
+                <Real minusError="0.0" plusError="0.0">-0.326867</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-0.174711</Imaginary>
+              </Pole>
+              <Pole number="2">
+                <Real minusError="0.0" plusError="0.0">-0.059357</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Pole>
+              <Pole number="3">
+                <Real minusError="0.0" plusError="0.0">-0.0628319</Real>
+                <Imaginary minusError="0.0" plusError="0.0">0.0</Imaginary>
+              </Pole>
+              <Pole number="4">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">3.33954</Imaginary>
+              </Pole>
+              <Pole number="5">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-3.33954</Imaginary>
+              </Pole>
+              <Pole number="6">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">3.33954</Imaginary>
+              </Pole>
+              <Pole number="7">
+                <Real minusError="0.0" plusError="0.0">-8.06237</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-3.33954</Imaginary>
+              </Pole>
+              <Pole number="8">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">8.06237</Imaginary>
+              </Pole>
+              <Pole number="9">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-8.06237</Imaginary>
+              </Pole>
+              <Pole number="10">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">8.06237</Imaginary>
+              </Pole>
+              <Pole number="11">
+                <Real minusError="0.0" plusError="0.0">-3.33954</Real>
+                <Imaginary minusError="0.0" plusError="0.0">-8.06237</Imaginary>
+              </Pole>
+            </PolesZeros>
+            <Decimation>
+              <InputSampleRate unit="HERTZ">6.625</InputSampleRate>
+              <Factor>1</Factor>
+              <Offset>0</Offset>
+              <Delay>0.0</Delay>
+              <Correction>0.0</Correction>
+            </Decimation>
+            <StageGain>
+              <Value>2861130000.0</Value>
+              <Frequency>1.0</Frequency>
+            </StageGain>
+          </Stage>
+        </Response>
+      </Channel>
+    </Station>
+  </Network>
+</FDSNStationXML>
